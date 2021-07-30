@@ -10,11 +10,12 @@ iShot
 https://github.com/Molunerfinn/PicGo
 
 Itrem2
-
+https://iterm2.com/
 
 键位切换
 https://karabiner-elements.pqrs.org/
 
 
 homebrew
+https://brew.sh/
 
