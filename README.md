@@ -19,3 +19,5 @@ https://karabiner-elements.pqrs.org/
 homebrew
 https://brew.sh/
 
+typora
+https://typora.io/
