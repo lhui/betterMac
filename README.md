@@ -5,6 +5,7 @@ make mac a better place
 
 截图软件
 iShot
+https://www.better365.cn/ishot.html
 
 图床上传软件:
 https://github.com/Molunerfinn/PicGo
@@ -24,3 +25,6 @@ https://typora.io/
 
 docker
 https://www.docker.com/
+
+sublimetext
+https://www.sublimetext.com/
