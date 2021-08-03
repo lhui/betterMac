@@ -28,3 +28,6 @@ https://www.docker.com/
 
 sublimetext
 https://www.sublimetext.com/
+
+Alfred
+https://www.alfredapp.com/
