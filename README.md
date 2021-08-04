@@ -31,3 +31,6 @@ https://www.sublimetext.com/
 
 Alfred
 https://www.alfredapp.com/
+
+PicGo
+https://github.com/Molunerfinn/PicGo
