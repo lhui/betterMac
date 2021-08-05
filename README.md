@@ -34,3 +34,7 @@ https://www.alfredapp.com/
 
 PicGo
 https://github.com/Molunerfinn/PicGo
+
+SwitchKey
+https://github.com/itsuhane/SwitchKey
+
