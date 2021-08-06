@@ -38,3 +38,5 @@ https://github.com/Molunerfinn/PicGo
 SwitchKey
 https://github.com/itsuhane/SwitchKey
 
+VS code
+https://code.visualstudio.com/
