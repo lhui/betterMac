@@ -40,3 +40,6 @@ https://github.com/itsuhane/SwitchKey
 
 VS code
 https://code.visualstudio.com/
+
+Drafts
+https://getdrafts.com/
